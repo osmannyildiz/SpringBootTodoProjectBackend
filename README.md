@@ -1,5 +1,7 @@
 # Spring Boot Todo Project - Backend
 
+> The frontend is here: [SpringBootTodoProjectReactFrontend](https://github.com/osmannyildiz/SpringBootTodoProjectReactFrontend)
+
 Welcome! With this Spring Boot Todo Project, my goal is to develop *and deploy* a Spring Boot project on my own. For this, I'll be making a simple web app that consists of:
 - a backend API powered by Spring Boot
 - a MySQL database
